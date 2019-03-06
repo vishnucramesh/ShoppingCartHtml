@@ -1,0 +1,31 @@
+{
+  "offers": [
+    {
+      "name": "Super iPad",
+      "category": "per number",
+      "type": "price-discount",
+      "count": 3,
+      "payCount": null,
+      "itemName": null,
+      "price": 499.99
+    },
+    {
+      "name": "Apple TV",
+      "category": "per number",
+      "type": "pay-count-discount",
+      "count": 3,
+      "payCount": 2,
+      "itemName": null,
+      "price": null
+    },
+    {
+      "name": "MacBook Pro",
+      "category": "per item",
+      "type": "other-item-free",
+      "count": 1,
+      "payCount": 1,
+      "itemName": "VGA Adapter",
+      "price": null
+    }
+  ]
+}

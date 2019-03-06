@@ -1,0 +1,20 @@
+{
+    "items": [
+      {
+        "name": "Super iPad",
+        "price": 549.99
+      },
+      {
+        "name": "MacBook Pro",
+        "price": 1399.99
+      },
+      {
+        "name": "Apple TV",
+        "price": 109.5
+      },
+      {
+        "name": "VGA Adapter",
+        "price": 30.0
+      }
+    ]
+  }
